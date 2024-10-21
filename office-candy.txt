@@ -1,1 +1,3 @@
 Hello initial file.
+
+Candy Storing in local office.
