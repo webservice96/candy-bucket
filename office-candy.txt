@@ -1,3 +1,5 @@
 Hello initial file.
 
 Candy Storing in local office.
+
+Candy Also storing from remote.
